@@ -1,0 +1,20 @@
+1-Qual o problema que iram resolver?
+R: Na corretora de veículos o principal problema seria de organizar os dados dos veiculos e clientes,
+sem a necessidade de papéis, no caso resolveria a papelada criada e a facilidade de acesso dos dados.
+
+2-Porquê ele é importante?
+R: Vai ser importante pois, os funcionários e os corretores não vão perder tempo na busca de alguma
+informação que ele quizer, e sobrando mas tempo para ir a procura de novos clientes. 
+
+3-Quem são as pessoas que sofrem desse Problema?
+R: Todo oss funcionários, numa faixa etária maior de 18 anos, de todos os gêneros, de todas as classes
+sociais que adquirirem um veículo automotor e qualquer faixa de preço e que tenham interesse em 
+contratar um seguro veicular. 
+
+4-Quem são seus concorrentes?
+R: Na cidade local(Garanhuns) os principais concorrentes são: Ideia sistemas, Bravil sistemas e ETC.
+
+Observação: Evitando o acúmulo de papel, a apólice é enviada para o segurado em forma de arquivo PDF,
+ou até mesmo em arquivo de foto como JPG para seu e-mail, até a forma de informação como quando 
+vai vender seu seguro segue automaticamente por e-mail, por redes sociais ou pelo famoso e mais utilizado
+ WhatsApp.
